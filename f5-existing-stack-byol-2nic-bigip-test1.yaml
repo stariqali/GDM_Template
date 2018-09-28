@@ -23,7 +23,7 @@ resources:
    ### Mask used for specified application traffic subnet using prefix notation. ie '24'
    mask1: '24'
    ### BIG-IP license key
-   licenseKey1: 'NNDCK-BIMHA-XJOID-BQTAL-VBAGAJS'
+   licenseKey1: 'licensekey'
    ### BIG-IP image, valid choices include:
    # f5-byol-bigip-13-1-1-0-0-4-all-2slot
    # f5-byol-bigip-13-1-1-0-0-4-ltm-2slot
